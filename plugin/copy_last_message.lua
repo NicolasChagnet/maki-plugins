@@ -1,0 +1,1 @@
+require("copy_last_message")
